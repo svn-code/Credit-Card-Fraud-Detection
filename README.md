@@ -105,6 +105,6 @@ Your web browser will automatically open to the application's URL.
 
 6.The app will display the prediction ("FRAUDULENT" or "NOT FRAUDULENT") along with the confidence probabilities for each class.
 
-##License
+## License
 This project is licensed under the MIT License.
 
